@@ -82,6 +82,7 @@
 
 <!-- BEGIN LINEAGE-OS -->
   <project name="android_external_libncurses" path="external/libncurses" remote="laos" />
+  <project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="laos" />
   <project name="android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="laos" />
   <project name="android_hardware_qcom_camera" path="hardware/qcom/camera" remote="laos" />
   <project name="android_hardware_qcom_display" path="hardware/qcom/display" remote="laos" />
